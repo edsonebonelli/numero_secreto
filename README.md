@@ -5,6 +5,7 @@
 > - [X] Compartilhamento do projeto via Git e GitHub.
 > - [X] Colaborando no projeto via clonagem e commits.
 > - [X] Utilizando Git na IDE.
+> - [x] Simulando e Resolvendo um conflito.
 > - [X] Voltando no tempo em desfazendo um commit, resetando um commit e alterando o último commit.
 > - [X] Recurso adicionai.
 
