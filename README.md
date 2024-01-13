@@ -1,3 +1,12 @@
+# Tecnologia Usada
+> - [x] HTML5.
+> - [x] CSS3.
+> - [x] Bootstrap.
+> - [x] JS
+> - [x] Visual Studio Code
+> - [x] Git
+> - [x] GitHub
+
 # NÚMERO SECRETO
 > Projeto criado e desenvolvido com objetivo de aperfeiçoar o conhecimento em comandos de Git e GitHub.
 
@@ -8,15 +17,6 @@
 > - [x] Simulando e Resolvendo um conflito.
 > - [X] Voltando no tempo em desfazendo um commit, resetando um commit e alterando o último commit.
 > - [X] Recurso adicionai.
-
-# Tecnologia Usada
-> - [x] HTML5.
-> - [x] CSS3.
-> - [x] Bootstrap.
-> - [x] JS
-> - [x] Visual Studio Code
-> - [x] Git
-> - [x] GitHub
 
 # Principais Recursos e Objetivos
 
